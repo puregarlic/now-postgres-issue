@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "pg": "^7.6.1",
+    "pg-native": "^3.0.0"
+  }
+}
